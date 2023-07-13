@@ -18,3 +18,4 @@ const CONFIG = {
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/hoangkhang.tran.3914'
 }
+
